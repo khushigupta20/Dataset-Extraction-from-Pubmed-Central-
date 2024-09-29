@@ -18,7 +18,6 @@ For each article, the script checks for the availability of supplementary datase
 Supplementary materials, such as datasets or media files, are fetched and included as additional information.
 
 4.  Save to CSV:
-
 After retrieving and parsing the article details, the script saves the information into a CSV file.
 The output CSV contains the title, link, article type, and supplementary datasets for each article.
 Additionally, the script filters out articles without supplementary datasets and saves them to a separate CSV file for further analysis.
