@@ -1,4 +1,4 @@
-# Dataset-Extraction-from-Pubmed-Central-
+# Dataset Extraction from Pubmed Central
 
 # Project Overview
 This repository contains a Python-based script designed to retrieve and scrape detailed article data from PubMed Central (PMC). The script automates the process of fetching PMC articles related to a given query, extracting relevant article information (such as titles, links, and article types), and saving this data in a structured format for further analysis. The project also checks for the availability of supplementary datasets within the articles and includes them in the final output.
